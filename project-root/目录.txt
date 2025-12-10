@@ -1,0 +1,23 @@
+/project-root
+├── index.html
+├── assets/
+│   └── styles.css
+├── data/
+│   └── schools.json
+├── core/
+│   ├── config.js
+│   ├── utils.js
+│   ├── policyRules.js
+│   └── scoring/
+│       ├── distanceScore.js
+│       ├── academicScore.js
+│       ├── preferenceScore.js
+│       ├── costScore.js
+│       └── reputationScore.js
+├── services/
+│   ├── aiService.js
+│   └── pdfService.js
+├── ui/
+│   └── renderer.js
+└── app.js
+

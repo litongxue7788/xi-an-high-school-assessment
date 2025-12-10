@@ -1,0 +1,52 @@
+[
+  {
+    "id": "XA001",
+    "name": "西安第一小学附属中学",
+    "type": "公办",
+    "district": "雁塔区",
+    "location": {"lat":34.223, "lng":108.95},
+    "fees": {"tuition": 0},
+    "features": ["理科优势", "竞赛强校", "实验班"],
+    "category": "市级重点",
+    "achievements": {"high_school_admission_rate": 92},
+    "ratings": {"overall": 4.4},
+    "admission": {"method": "学区对口", "street_scope": ["大雁塔街道", "小寨街道"]}
+  },
+  {
+    "id": "XA002",
+    "name": "西安民办星辰中学",
+    "type": "民办",
+    "district": "新城区",
+    "locations": {"lat":34.267, "lng":108.96},
+    "fees": {"tuition": 30000},
+    "features": ["国际课程", "外语特色", "艺术特色"],
+    "category": "民办优质",
+    "achievements": {"high_school_admission_rate": 65},
+    "ratings": {"overall": 4.1},
+    "admission": {"method": "摇号+面试"}
+  },
+  {
+    "id": "XA003",
+    "name": "西安科创中学",
+    "type": "公办",
+    "district": "碑林区",
+    "fees": {"tuition": 0},
+    "features": ["科创", "信息优势", "竞赛强校"],
+    "category": "省级示范",
+    "achievements": {"high_school_admission_rate": 95},
+    "ratings": {"overall": 4.7},
+    "admission": {"method": "学区对口", "street_scope": ["碑林街道"]}
+  },
+  {
+    "id": "XA004",
+    "name": "西安乐学学校",
+    "type": "民办",
+    "district": "灞桥区",
+    "fees": {"tuition": 50000},
+    "features": ["体育特色", "艺术特色"],
+    "category": "民办",
+    "achievements": {"high_school_admission_rate": 58},
+    "ratings": {"overall": 3.9},
+    "admission": {"method": "摇号"}
+  }
+]
